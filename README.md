@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ananthu-kp
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning MonogoDB
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me @anantu.kp on instagram
 
 <!---
