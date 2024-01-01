@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ananthu-kp
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Node JS
 - 📫 How to reach me @anantu.kp on instagram
 
 <!---
