@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ananthu-kp
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Node JS
+- 🌱 I’m currently learning MERN stack
 - 📫 How to reach me @anantu.kp on instagram
 
 <!---
