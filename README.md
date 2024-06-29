@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ananthu-kp
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Data Structure and Algorithm
+- 🌱 I’m currently learning MERN
 - 📫 How to reach me @anantu.kp on instagram
 
 <!---
