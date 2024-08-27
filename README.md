@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ananthu-kp
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me @anantu.kp on instagram
 
 [![](https://visitcount.itsvg.in/api?id=Ananthu-kp&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
