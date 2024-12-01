@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ananthu-kp  
 - 💻 Passionate about Software Development and building user-friendly applications.
-- 🌱 Currently diving deep into the MERN Stack  
-- 🚀 Exploring TypeScript, AWS, and backend optimizations  
-- 🎯 Aiming to create scalable, efficient, and impactful software solutions  
+- 🌱 Currently diving deep into the MERN Stack.  
+- 🚀 Exploring TypeScript, AWS, and backend optimizations.  
+- 🎯 Aiming to create scalable, efficient, and impactful software solutions.  
  
 
 [![](https://visitcount.itsvg.in/api?id=Ananthu-kp&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)  
